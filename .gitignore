@@ -1,4 +1,30 @@
+<<<<<<< HEAD
 __pycache__/
 _pruebas_tmp/
 *.mtxc
 *_reconstruido.txt
+=======
+### AL ###
+#Template for AL projects for Dynamics 365 Business Central
+#launch.json folder
+.vscode/
+#Cache folder
+.alcache/
+#Symbols folder
+.alpackages/
+#Snapshots folder
+.snapshots/
+#Testing Output folder
+.output/
+#Extension App-file
+*.app
+#Rapid Application Development File
+rad.json
+#Translation Base-file
+*.g.xlf
+#License-files
+*.bclicense
+*.flf
+#Test results file
+TestResults.xml
+>>>>>>> 03658b565b211c38891d68e7151dd1c4d2f542f9
