@@ -1,0 +1,4 @@
+__pycache__/
+_pruebas_tmp/
+*.mtxc
+*_reconstruido.txt
